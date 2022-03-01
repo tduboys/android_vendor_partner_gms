@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
 	NominatimGeocoderBackend \
 	FDroid \
 	FDroidPrivilegedExtension \
+	AuroraServices \
 	additional_repos.xml

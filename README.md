@@ -33,6 +33,8 @@ The included APKs are:
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * IchnaeaNlpBackend: Network location provider using Mozilla Location Service
    * NominatimGeocoderBackend: Geocoder backend that uses OSM Nominatim service.
+ * Aurora OSS (biranies sourced from [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)
+   * Aurora Services: an Aurora extension to ease the installation/removal of apps
 
 These are official unmodified prebuilt binaries, signed by the
 corresponding developers.
