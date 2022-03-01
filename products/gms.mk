@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
 	FDroid \
 	FDroidPrivilegedExtension \
 	AuroraStore \
+	AndroidAuto \
 	additional_repos.xml
