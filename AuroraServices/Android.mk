@@ -9,12 +9,12 @@ include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := AuroraServices
-LOCAL_SRC_FILES := com.aurora.services_1_1_1.apk
+LOCAL_SRC_FILES := AuroraServices.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
-LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_REQUIRED_MODULES := privapp-permissions-com.aurora.services.xml
+LOCAL_CERTIFICATE := releasekey
 LOCAL_PRODUCT_MODULE := true
 include $(BUILD_PREBUILT)
 
