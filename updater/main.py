@@ -46,3 +46,4 @@ update_if_needed('GmsCore', fdroid_recommended_release(fdroid_microg_repo, 'com.
 update_if_needed('GsfProxy', fdroid_recommended_release(fdroid_microg_repo, 'com.google.android.gsf'))
 update_if_needed('IchnaeaNlpBackend', fdroid_recommended_release(fdroid_main_repo, 'org.microg.nlp.backend.ichnaea'))
 update_if_needed('NominatimGeocoderBackend', fdroid_recommended_release(fdroid_main_repo, 'org.microg.nlp.backend.nominatim'))
+update_if_needed('AuroraStore', fdroid_recommended_release(fdroid_main_repo, 'com.aurora.store'))
